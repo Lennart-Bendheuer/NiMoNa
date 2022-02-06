@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #analytisch für Aufgabenteil a
-
+#Test
 a = 1
 h = 0.5
 x0 = 0.5
